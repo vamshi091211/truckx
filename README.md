@@ -1,4 +1,8 @@
 As i am unaware of web frameworks i have used advanced machine learning techniques to detect accident in video.
+
+
+
+
 SUMMARY:
 Advanced machine learning techniques are employed to compare video footage containing accidents to video free of crashes. Minute differences can be found using a recurrent neural network from a labeled video set. These differences can then be used to find accidents in videos.
 PROCESS:
